@@ -42,7 +42,7 @@
 
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/dthh2611/1444444444 ）</span>
 
 
 
